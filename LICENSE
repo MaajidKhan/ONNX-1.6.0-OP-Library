@@ -2,6 +2,12 @@ MIT License
 
 Copyright (c) 2021 Maajid
 
+Portions of this software are copyright of their respective authors and released under the MIT license:
+- onnxruntime, Copyright (c) Microsoft Corporation. For licensing see https://github.com/microsoft/onnxruntime/blob/master/LICENSE
+
+Portions of this software are copyright of their respective authors and released under the Apache License 2.0:
+- onnx. For licensing see https://github.com/onnx/onnx/blob/master/LICENSE
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
